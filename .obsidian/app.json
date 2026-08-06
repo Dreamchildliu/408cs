@@ -4,7 +4,7 @@
   "newFileLocation": "current",
   "newLinkFormat": "relative",
   "alwaysUpdateLinks": false,
-  "promptDelete": true,
+  "promptDelete": false,
   "attachmentFolderPath": "./files",
   "deleteUnlinkedAttachments": "always",
   "trashOption": "local",
