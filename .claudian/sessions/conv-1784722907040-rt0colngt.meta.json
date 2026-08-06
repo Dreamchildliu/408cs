@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784722907040-rt0colngt",
+  "providerId": "claude",
+  "title": "Identify the AI model",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784722907109,
+  "updatedAt": 1784723038815,
+  "lastResponseAt": 1784722931180,
+  "sessionId": "87055bb9-b6e7-4944-9868-60f53cf50fef",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "87055bb9-b6e7-4944-9868-60f53cf50fef"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 85,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20864,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": false,
+    "contextTokens": 20949,
+    "percentage": 2
+  }
+}
