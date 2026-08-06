@@ -2,10 +2,11 @@
   "livePreview": false,
   "showLineNumber": true,
   "newFileLocation": "current",
-  "newLinkFormat": "shortest",
-  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": false,
   "promptDelete": true,
   "attachmentFolderPath": "./files",
   "deleteUnlinkedAttachments": "always",
-  "trashOption": "local"
+  "trashOption": "local",
+  "useMarkdownLinks": true
 }
